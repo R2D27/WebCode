@@ -1,0 +1,10 @@
+
+  body {
+    background-image: linear-gradient(-225deg, #E3FDF5 0%, #a3e4c9 100%);
+    background-image: linear-gradient(to top, #a8edea 0%, #90cfec 100%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: 'Vibur', cursive;
+    font-family: 'Abel', sans-serif;
+    opacity: .95;
+  }
